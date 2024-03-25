@@ -1,0 +1,7 @@
+ProductID,ProductName,AvailableItems,Price,Type,Brand,WarrantyPeriod,Size,Color
+E002,ROG,12,450000.0,Electronics,Asus,24
+E003,Legion,5,400000.0,Electronics,Lenovo,24
+E001,TUF,6,300000.0,Electronics,Asus,24
+C001,T-shirt,40,3000.0,Clothing,M,Red
+C002,T-shirt,35,3000.0,Clothing,M,Blue
+C003,T-shirt,45,3000.0,Clothing,L,Green
